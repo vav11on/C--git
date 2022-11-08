@@ -3,4 +3,4 @@ project(C__git)
 
 set(CMAKE_CXX_STANDARD 14)
 
-add_executable(C__git main.cpp)
+add_executable(C__git "LB1 TRIMI-22-2 V.Turkov.cpp")
